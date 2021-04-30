@@ -1,0 +1,2 @@
+// SPDX-FileCopyrightText: Copyright 2021 The subcommandsutil Authors
+// SPDX-License-Identifier: BSD-3-Clause
